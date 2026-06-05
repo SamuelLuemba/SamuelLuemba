@@ -4,20 +4,6 @@
 
 Sou apaixonado por tecnologia e desenvolvimento de software, com experiência na criação de aplicações web modernas, APIs escaláveis e sistemas de gestão.
 
-Atualmente estou focado em:
-
-- ASP.NET Core
-- C#
-- Entity Framework Core
-- SQL Server
-- PostgreSQL
-- Docker
-- Next.js
-- TypeScript
-- Git & GitHub
-
----
-
 ## 🚀 Sobre Mim
 
 - 💻 Desenvolvedor Full Stack
@@ -44,10 +30,8 @@ Atualmente estou focado em:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 
 ### Banco de Dados
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-
 ### DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
@@ -73,11 +57,5 @@ Plataforma desenvolvida para controle de membros, contribuições e relatórios 
 
 ---
 
-## 📫 Contacto
-
-- LinkedIn: https://linkedin.com/in/seu-perfil
-- Email: seuemail@exemplo.com
-
----
 
 > "Transformando ideias em soluções através do código."# SamuelLuemba
