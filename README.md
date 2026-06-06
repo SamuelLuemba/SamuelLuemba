@@ -4,7 +4,7 @@
 
 Sou apaixonado por tecnologia e desenvolvimento de software, com experiência na criação de aplicações web modernas, APIs escaláveis e sistemas de gestão.
 
-## 🚀 Sobre Mim
+##  Sobre Mim
 
 - 💻 Desenvolvedor Full Stack
 - 🎯 Especialização em desenvolvimento backend com .NET
@@ -14,7 +14,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com experiência na
 
 ---
 
-## 🛠️ Stack Tecnológica
+##  Stack Tecnológica
 
 ### Backend
 
