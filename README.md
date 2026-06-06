@@ -1,4 +1,4 @@
-# Samuel Luemba 👨
+# Samuel Luemba
 
 ## Desenvolvedor Full Stack com foco em .NET
 
@@ -38,24 +38,5 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com experiência na
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
-
-## 📂 Projetos em Destaque
-
-### Sistema de Gestão de Bolsas de Sangue
-Aplicação desenvolvida para gerenciamento de doadores, estoque e distribuição de sangue.
-
-### Sistema de Gestão de Membros e Finanças
-Plataforma desenvolvida para controle de membros, contribuições e relatórios financeiros.
-
----
-
-## 📈 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
-
----
-
 
 > "Transformando ideias em soluções através do código."# SamuelLuemba
